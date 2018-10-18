@@ -100,7 +100,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libservices.huawei.so:system/vendor/lib64/libservices.huawei.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libteec.so:system/vendor/lib64/libteec.so \
     vendor/huawei/kiwi/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
-    vendor/huawei/kiwi/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/huawei/kiwi/proprietary/vendor/etc/calmodule.cfg:system/vendor/etc/calmodule.cfg \
     vendor/huawei/kiwi/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
@@ -455,7 +454,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
@@ -537,8 +535,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libsmemlog.so:system/vendor/lib64/libsmemlog.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libssd.so:system/vendor/lib64/libssd.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/com.qualcomm.qti.ant@1.0.so:system/vendor/lib/com.qualcomm.qti.ant@1.0.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libantradio.so:system/vendor/lib/libantradio.so \
